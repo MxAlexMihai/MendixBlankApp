@@ -6,3 +6,4 @@ deployment/*
 packages/*
 releases/*
 BlankApp.mpr.bak
+project-settings.user.json
