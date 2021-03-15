@@ -1,0 +1,8 @@
+modeler-merge-marker
+.mendix-cache/*
+BlankApp.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+BlankApp.mpr.bak
